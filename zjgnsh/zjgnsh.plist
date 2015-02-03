@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://42.121.56.140:8080/zjgnsh/zjgnsh.ipa</string>
+					<string>http://218.4.136.195:7001/default/zjgoa/zjgoa.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://42.121.56.140:8080/zjgnsh/114x114.png</string>
+					<string>http://218.4.136.195:7001/default/zjgoa/114x114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://42.121.56.140:8080/zjgnsh/57x57.png</string>
+					<string>http://218.4.136.195:7001/default/zjgoa/57x57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.primeton.pmkehu.zjgnsh</string>
+				<string>com.zrcbank.oa</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
